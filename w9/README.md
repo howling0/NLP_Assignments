@@ -1,0 +1,10 @@
+### 文件说明
+
+assignment_9.ipynb：作业文件
+
+tree.dot：树的结构内容
+
+tree.png：树的展示结果图
+
+github地址：<https://github.com/howling0/NLP_Assignments/tree/master/w9>
+
